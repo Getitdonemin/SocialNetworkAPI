@@ -134,4 +134,5 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 - `POST` to create a reaction stored in a single thought's `reactions` array field
 - `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
-## Walkthrough Video Link: 
+
+## Walkthrough Video Link: [Walkthrough module 18.webm](https://user-images.githubusercontent.com/107437104/207450802-9aa758b8-a367-46d5-aea8-60bdfaf410de.webm)
